@@ -1,6 +1,6 @@
 # Guide to Web Development
 
-## Steps
+## Topics/Guides
 
 1. Environment setup
 2. HTML basics
@@ -18,7 +18,7 @@
 
 An Environment is a collection of tools that developers use when writing, test and deploy their code.
 
-Online resources:
+**Online resources:
 
 [Windows Dev Environment Setup](https://docs.microsoft.com/en-us/windows/dev-environment/)
 
